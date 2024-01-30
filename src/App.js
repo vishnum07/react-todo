@@ -193,17 +193,17 @@ const TodoApp = () => {
           </Grid>
           <Grid item container spacing={2} justifyContent="center" className="social-media-links">
             <Grid item>
-              <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/vishnum07" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faGithub} size="2x" />
               </a>
             </Grid>
             <Grid item>
-              <a href="https://twitter.com/your-username" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/vishnu_kumar_murukesh" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faInstagram} size="2x" />
               </a>
             </Grid>
             <Grid item>
-              <a href="https://www.linkedin.com/in/your-username" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/vishnu-kumar-9b3b88217" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} size="2x" />
               </a>
             </Grid>
